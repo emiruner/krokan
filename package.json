@@ -1,0 +1,20 @@
+{
+  "name": "kro",
+  "version": "0.0.0",
+  "dependencies": {
+    "@types/mocha": "^2.2.41",
+    "@types/mongodb": "^2.2.5",
+    "@types/request": "0.0.44",
+    "@types/winston": "^2.3.3",
+    "mocha": "^3.4.2",
+    "mongodb": "^2.2.27",
+    "typescript": "^2.4.1",
+    "winston": "^2.3.1"
+  },
+  "devDependencies": {
+    "@types/mocha": "^2.2.41",
+    "@types/node": "^7.0.23",
+    "mocha": "^3.4.2",
+    "typescript": "^2.4.1"
+  }
+}
